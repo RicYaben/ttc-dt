@@ -1,4 +1,4 @@
-![alt text](https://github.com/RicYaben/ttc-dt/blob/master/ttc.png "Decision tree")
+![alt text](https://github.com/RicYaben/ttc-dt/blob/master/graphviz.png "Decision tree")
 
 # USAGE
 
